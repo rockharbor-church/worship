@@ -1,20 +1,29 @@
-site_name: Rock Harbor Worship
+site_name: ''
 # repo_url: 
 # repo_name: 
 
 # Standard theme with dark mode enabled
 # For feature descriptions, see: https://squidfunk.github.io/mkdocs-material/setup/
+extra_css:
+  - stylesheets/extra.css
+
 theme:
-  # logo: assets/lampray-logo.png
+  logo: assets/logo_light.png
   name: material
   palette:
-    scheme: slate
-    primary: amber 
+    scheme: rockharbor
   features:
     - content.code.copy
     - content.tabs.link
     - navigation.path
     - navigation.indexes
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/rockharborworship/
+
+copyright: Copyright &copy; 2024 Rockharbor
 
 markdown_extensions:
   - admonition
@@ -32,4 +41,8 @@ markdown_extensions:
 
 # Global site navigation
 nav:
-  - Getting started: 'index.md'
+  - Welcome: 'index.md'
+  - Commitments: 'commitments.md'
+  - Roles and skills: 'roles_and_skills.md'
+  - Songs and signals: 'songs_and_signals.md'
+  - Your first Sunday: 'your_first_sunday.md'
