@@ -1,6 +1,6 @@
 # Roles and skills
 
-These are the various roles that make up Rockharbor Worship and the skills needed for each one.
+These are the various roles that make up our team, along with the skills needed for each role.
 
 ## Band
 
