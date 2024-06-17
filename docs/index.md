@@ -22,7 +22,7 @@ TODO.
 
 <img src="./images/sammy.jpg" alt="ALT" width="200">
 
-## Joining
+## Joining the team
 
 If you'd like to join...
 

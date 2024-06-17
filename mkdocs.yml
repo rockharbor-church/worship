@@ -8,7 +8,8 @@ extra_css:
   - stylesheets/extra.css
 
 theme:
-  logo: assets/logo_light.png
+  logo: assets/logo_dark_mode.png
+  favicon: assets/favicon_dark_mode.png
   name: material
   palette:
     scheme: rockharbor
