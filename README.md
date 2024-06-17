@@ -1,3 +1,3 @@
-# Rock Harbor Worship
+# Rockharbor Worship
 
-Docs for Rock Harbor Worship.
+Docs for Rockharbor Worship.
