@@ -1,0 +1,49 @@
+site_name: ''
+# repo_url: 
+# repo_name: 
+
+# Standard theme with dark mode enabled
+# For feature descriptions, see: https://squidfunk.github.io/mkdocs-material/setup/
+extra_css:
+  - stylesheets/extra.css
+
+theme:
+  logo: assets/logo_dark_mode.png
+  favicon: assets/favicon_dark_mode.png
+  name: material
+  palette:
+    scheme: rockharbor
+  features:
+    - content.code.copy
+    - content.tabs.link
+    - navigation.path
+    - navigation.indexes
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/rockharborworship/
+
+copyright: Copyright &copy; 2024 Rockharbor
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      toc_depth: 3
+
+# Global site navigation
+nav:
+  - Welcome: 'index.md'
+  - Commitments: 'commitments.md'
+  - Roles and skills: 'roles_and_skills.md'
+  - Songs and signals: 'songs_and_signals.md'
+  - Your first Sunday: 'your_first_sunday.md'
