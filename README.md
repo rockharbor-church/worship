@@ -1,3 +1,3 @@
 # Rockharbor Worship
 
-Docs for Rockharbor Worship.
+The docs for Rockharbor Worship.
