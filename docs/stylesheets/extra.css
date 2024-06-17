@@ -22,7 +22,6 @@
 .md-typeset h1 {
     font-family: 'Helvetica Neue Bold';
     text-transform: uppercase;
-    color: var(--md-accent-fg-color);
 }
 
 .md-typeset h2, 
@@ -31,7 +30,6 @@
 .md-typeset h5, 
 .md-typeset h6 {
     font-family: 'Helvetica Neue Bold';
-    text-transform: lowercase;
 }
 
 .md-typeset p,
