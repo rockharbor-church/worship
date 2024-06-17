@@ -1,6 +1,6 @@
 # Songs and signals
 
-TODO.
+These are the sections of a song and the signals we use to communicate which one to play and how to play it. During a service, the [MD](roles_and_skills.md#music-director-md) and the tracking guide will communicate audibly through your in-ears, while the [worship leader](roles_and_skills.md#worship-leader) will communicate non-audibly using their hands or body.
 
 ## Song sections
 
@@ -61,7 +61,9 @@ Signals are essentially ‘junction’ moments where we all need to be looking a
 
 The worship leader and MD will use the following vocal and body signals to communicate with the band during a song. Whether you're on the production team or in the band, you should take the time to learn these signals.
 
-**NOTE:** Body signals are often used instead of vocal or hand signals for worship leaders playing an instrument.
+!!! note
+
+    Body signals are often used instead of vocal or hand signals for worship leaders playing an instrument.
 
 ### Vamp
 
