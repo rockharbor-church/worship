@@ -74,14 +74,21 @@ A full-band swell, which may be used to swell into the first measure of a song (
 
 ### Level
 
-The current dynamic level as a percentage. Keep in mind, the “level” does not refer to your engagement or confidence level–always remain fully engaged and confident while playing. For example, 25% could sound like the first verse of THIS, where 75% could sound like the second chorus before the bridge in THIS.
+The current dynamic level as a percentage. Keep in mind, the “level” does not refer to your engagement or confidence level–always remain fully engaged and confident while playing.
+!!! example
+
+    For example, 25% could sound like the first verse of [PLACEHOLDER](LINK), where 75% could sound like the second chorus before the bridge in [PLACEHOLDER](LINK).
 
 - **Hand signal:** A hand held out to the side. For example, a hand near the waist would mean “low level,” and a hand above the shoulder would mean “high level.”
 - **Body signal:** There is no signal for communicating an exact level. However, other signals can be used to communicate going up or down a level.
 
 ### Lift
 
-Increase the current level of the song to the “next level.” This is not the same as a build. For example, if the current level is 25%, lift the dynamics to 50% and continue to play at 50% until another signal is given. For example, like the energy shift in THIS.
+Increase the current level of the song to the “next level.” This is not the same as a build. For example, if the current level is 25%, lift the dynamics to 50% and continue to play at 50% until another signal is given.
+
+!!! example
+
+    Hear the PLACEHOLDER in this version of [PLACEHOLDER](LINK).
 
 - **Hand signal:** Making an “up” motion with an open hand.
 - **Body signal:** Stomping a foot, or moving the guitar neck up and down repeatedly. (Not to be confused with “crash out,” where the guitar neck is held in the up position).
@@ -95,11 +102,19 @@ Play the same section of the song again at the same exact level. For example, if
 
 ### Splash pad
 
-A mostly-cymbals/some-kick build played during a mid-song vamp. For example, the vamp after the first chorus in this version of All Hail King Jesus.
+A mostly-cymbals/some-kick build played during a mid-song vamp.
+
+!!! example
+
+    Hear the splash pad after the first chorus in this version of [All Hail King Jesus](https://youtu.be/e5QMEGf4Va4?t=443).
 
 ### Build
 
-Build the level of the song to get ready for: a full groove, drum break, or just the voices. In most cases, the level should continue to build until ~100% energy level is reached. For example, the end of the bridge in THIS.
+Build the level of the song to get ready for: a full groove, drum break, or just the voices. In most cases, the level should continue to build until ~100% energy level is reached.
+
+!!! example
+
+    Hear the PLACEHOLDER in this version of [PLACEHOLDER](LINK).
 
 - **Hand signal:** Air punch low?
 - **Body signal:** Stomping 1 foot - start to build. Stomping 2 feet/harder stomp, go bigger. 
@@ -113,7 +128,11 @@ The highest energy level with the full band that is not a build. For example, th
 
 ### Drum break
 
-A high energy chorus or bridge with just the drums and vocals (and sometimes bass). In most cases, a drum break would only occur after a build. For example, after the bridge in THIS.
+A high energy chorus or bridge with just the drums and vocals (and sometimes bass). In most cases, a drum break would only occur after a build.
+
+!!! example
+
+    Hear the PLACEHOLDER in this version of [PLACEHOLDER](LINK).
 
 - **Hand signal:** WL point at the drummer
 - **Body signal:** N/A
@@ -132,21 +151,29 @@ The band’s level should be around 5-10% with little-to-no drums. However, guit
 - **Hand signal:** Making a “down” motion with an open hand.
 - **Body signal:** The guitar neck is held in the “up” position, then slowly lowered a single time. 
 
-### Crash out/Trash can
+### Crash out
 
-A big non-rhythmic end to the song where all of the instruments are playing at ~100% with lots of symbol swells. For example, the end of THIS.
+A big non-rhythmic end to the song where all of the instruments are playing at ~100% with lots of symbol swells.
+
+!!! example
+
+    Hear the PLACEHOLDER in this version of [PLACEHOLDER](LINK).
 
 - **Hand signal:** A fist punching the air
 - **Body signal:** The guitar neck is held in the “up” position, then quickly lowered a single time and the worship leader strums hard - watch the body energy to know energy level
 
 ### Keep time
 
-A signal specifically for the drummer. If the click has ended, the MD may ask the drummer to keep time on the cymbals / ride. In most cases, this would be after a come down or crash out, so the drummer’s level should be ~1-5% maximum. For example, the end of THIS.
+A signal specifically for the drummer. If the click has ended, the MD may ask the drummer to keep time on the cymbals / ride. In most cases, this would be after a come down or crash out, so the drummer’s level should be ~1-5% maximum.
+
+!!! example
+
+    Hear the PLACEHOLDER in this version of [PLACEHOLDER](LINK).
 
 - **Hand signal:** A fist making a “drumming” motion similar to hitting the ride.
 - **Body signal:** N/A
 
-### End of song
+### Ending
 
 There'll be times where we end the song as per a specified arrangement but there'll also be times where we’ll end something in a spontaneous way. This requires everyone to be looking and aware of the ‘junction’ moments.
 
