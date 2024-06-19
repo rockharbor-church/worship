@@ -7,8 +7,9 @@ These are the source files that make up [Rockharbor Worship](https://rockharbor-
 To view the docs preview locally, run the following commands:
 
 ```
+cd ~/worship
 pip install mkdocs-material
-git checkout setting-up-mkdocs
+git checkout main && git pull main
 mkdocs serve
 ```
 
