@@ -4,18 +4,22 @@ These are the source files that make up [Rockharbor Worship](https://rockharbor-
 
 ## Building the site locally
 
-To view the docs preview locally, run the following commands:
+To view the docs locally, you'll need Python's `pip` installed. You can check if it's installed by running the following command. If it's not, see the official [Pip Installation Guide](https://pip.pypa.io/en/stable/installation/).
 
+```bash
+pip --version
 ```
-cd ~/worship
+
+Next, open the `worship` directory, then run the following commands:
+
+```bash
 pip install mkdocs-material
-git checkout main && git pull main
 mkdocs serve
 ```
 
 Your terminal output will be similar to the following:
 
-```
+```bash
 ➜  worship git:(main) mkdocs serve                        
 INFO    -  Building documentation...
 INFO    -  Cleaning site directory
