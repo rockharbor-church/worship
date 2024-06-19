@@ -10,7 +10,7 @@ To view the docs locally, you'll need Python's `pip` installed. You can check if
 pip --version
 ```
 
-Next, open the `worship` directory, then run the following commands:
+Next, open the `worship` directory, then install project dependences and build the site:
 
 ```bash
 pip install mkdocs-material
