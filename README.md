@@ -1,6 +1,6 @@
 # Rockharbor Worship
 
-These are the source files that make up [Rockharbor Worship](https://rockharbor-church.github.io/worship/). The site is built using [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/) and [GitHub Pages](https://pages.github.com/).
+These are the source files that make up [Rockharbor Worship](https://rockharbor-church.github.io/worship/). The site is built using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and [GitHub Pages](https://pages.github.com/).
 
 ## Building the site locally
 
